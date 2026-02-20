@@ -1,0 +1,134 @@
+Cluster,Target_Gene,Drug_Name,Interaction_Score,Type,Source
+EMT,DKK1,BHQ-880,11.60084412419678,['inhibitor'],"['TTD', 'ChEMBL']"
+EMT,CXCL10,NI-0801,6.141623359868886,['inhibitor'],"['TTD', 'ChEMBL']"
+EMT,DKK1,DKN-01,5.800422062098392,['inhibitor'],['ChEMBL']
+EMT,CXCL10,ELDELUMAB,3.070811679934443,['inhibitor'],['ChEMBL']
+EMT,BCL2,OBLIMERSEN,1.909895069227519,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'TALC']"
+EMT,BCL2A1,OBATOCLAX MESYLATE,1.450105515524598,['inhibitor'],['ChEMBL']
+EMT,BCL2,APG-2575,0.3183158448712532,['inhibitor'],['ChEMBL']
+EMT,BCL2,OBATOCLAX,0.2387368836534399,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'TALC']"
+EMT,BCL2,NAVITOCLAX,0.1989474030445333,['inhibitor'],"['TTD', 'DTC', 'TALC', 'ChEMBL']"
+EMT,BCL2,VENETOCLAX,0.1157512163168193,['inhibitor'],"['CGI', 'TTD', 'CIViC', 'ChEMBL']"
+EMT,BCL2,OBATOCLAX MESYLATE,0.106105281623751,['inhibitor'],['ChEMBL']
+EMT,GABRP,ETIFOXINE,0.0407842176241293,['inhibitor'],['ChEMBL']
+EMT,BCL2,PACLITAXEL,0.0231502432633638,['inhibitor'],"['ClearityFoundationClinicalTrial', 'TEND', 'TTD', 'TdgClinicalTrial']"
+Mesenchymal,MCAM,ABX-MA1,52.20379855888553,['inhibitor'],['ChEMBL']
+Mesenchymal,EGFL7,DULIGOTUZUMAB,34.80253237259035,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,PTGDS,ANTRAFENINE,26.10189927944276,['inhibitor'],['ChEMBL']
+Mesenchymal,CTSK,ODANACATIB,23.20168824839357,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'TALC', 'ChEMBL']"
+Mesenchymal,CCL2,CARLUMAB,17.40126618629517,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,CXCL12,OLAPTESED PEGOL,13.05094963972138,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,CTSK,BALICATIB,11.60084412419678,['inhibitor'],"['TALC', 'ChEMBL']"
+Mesenchymal,DKK1,BHQ-880,11.60084412419678,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,C1S,SUTIMLIMAB,10.4407597117771,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,CALCRL,TELCAGEPANT,6.525474819860691,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,CALCRL,ERENUMAB,6.525474819860691,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,CALCRL,OLCEGEPANT,6.525474819860691,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,RAMP1,ZAVEGEPANT,6.525474819860691,['inhibitor'],['ChEMBL']
+Mesenchymal,CTSK,ONO-5334,5.800422062098392,['inhibitor'],['ChEMBL']
+Mesenchymal,DKK1,DKN-01,5.800422062098392,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,ZIBOTENTAN,4.539460744250915,['inhibitor'],"['MyCancerGenomeClinicalTrial', 'TdgClinicalTrial', 'TALC', 'ChEMBL']"
+Mesenchymal,EDNRA,BQ-123,4.539460744250915,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,ENPP2,ZIRITAXESTAT,4.350316546573794,['inhibitor'],['ChEMBL']
+Mesenchymal,IL6,CLAZAKIZUMAB,4.261534576235554,"['antibody', 'inhibitor']","['TTD', 'TdgClinicalTrial', 'TALC', 'ChEMBL']"
+Mesenchymal,IL6,OLOKIZUMAB,4.261534576235554,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,CD70,CUSATUZUMAB,4.015676812221964,['inhibitor'],['ChEMBL']
+Mesenchymal,CSF1,MCS-110,3.728842754206109,['inhibitor'],['ChEMBL']
+Mesenchymal,CSF1,PD-360324,3.728842754206109,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,ZAVEGEPANT HYDROCHLORIDE,3.262737409930345,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,BI-44370,3.262737409930345,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,RIMEGEPANT SULFATE,3.262737409930345,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,MK3207,3.262737409930345,['inhibitor'],['ChEMBL']
+Mesenchymal,HBEGF,KHK-2866,3.262737409930345,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,SERPINE1,ALEPLASININ,3.070811679934443,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,TFPI,CONCIZUMAB,2.747568345204501,['inhibitor'],['ChEMBL']
+Mesenchymal,TFPI,MARSTACIMAB,2.747568345204501,['inhibitor'],['ChEMBL']
+Mesenchymal,TFPI,BAY-1093884,2.747568345204501,['inhibitor'],['ChEMBL']
+Mesenchymal,IL1B,CANAKINUMAB,2.559009733278702,"['inhibitor', 'immunotherapy']","['TEND', 'TTD', 'MyCancerGenome', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,EDNRA,CLAZOSENTAN,2.269730372125457,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,EDNRA,DARUSENTAN,2.269730372125457,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,EDNRA,BOSENTAN ANHYDROUS,2.269730372125457,['inhibitor'],"['TEND', 'TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,EDNRA,AVOSENTAN,2.269730372125457,['inhibitor'],"['TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,EDNRA,ATRASENTAN HYDROCHLORIDE,2.269730372125457,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,NEBENTAN,2.269730372125457,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,RIMEGEPANT,2.175158273286897,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,IL6,SILTUXIMAB,2.130767288117777,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,F2R,ATOPAXAR,2.007838406110982,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,F2R,PZ-128,2.007838406110982,['inhibitor'],['ChEMBL']
+Mesenchymal,F2R,VORAPAXAR SULFATE,2.007838406110982,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,AMBRISENTAN,1.815784297700366,['inhibitor'],"['TEND', 'TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,EDNRA,MACITENTAN,1.702297779094093,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,CALCRL,ATOGEPANT,1.631368704965172,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,UBROGEPANT,1.631368704965172,['inhibitor'],['ChEMBL']
+Mesenchymal,CALCRL,ZAVEGEPANT,1.631368704965172,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,SITAXENTAN,1.513153581416971,['inhibitor'],"['TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,TFPI,ANDEXANET ALFA,1.37378417260225,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,SPARSENTAN,1.361838223275274,['inhibitor'],"['TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,C1S,HUMAN C1-ESTERASE INHIBITOR,1.305094963972138,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,SITAXENTAN SODIUM,1.134865186062728,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,ENRASENTAN,1.134865186062728,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,TEZOSENTAN,1.134865186062728,['inhibitor'],['ChEMBL']
+Mesenchymal,IL6,PF-04236921,1.065383644058888,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,IL6,MRA 003 US,1.065383644058888,['inhibitor'],['ChEMBL']
+Mesenchymal,IL6,MEDI-5117,1.065383644058888,['inhibitor'],['ChEMBL']
+Mesenchymal,IL6,ELSILIMOMAB,1.065383644058888,['inhibitor'],['ChEMBL']
+Mesenchymal,IL6,SIRUKUMAB,1.065383644058888,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,IL1B,LUTIKIZUMAB,1.02360389331148,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,IL1B,CDP-484,1.02360389331148,['inhibitor'],['ChEMBL']
+Mesenchymal,ABCA1,PROBUCOL,0.7529394022916183,['inhibitor'],"['TTD', 'ChEMBL', 'GuideToPharmacology']"
+Mesenchymal,PDE1A,PENTOXIFYLLINE,0.745768550841222,['inhibitor'],['ChEMBL']
+Mesenchymal,MMP2,REBIMASTAT,0.6868920863011254,['inhibitor'],"['NCI', 'ChEMBL']"
+Mesenchymal,IL1B,RILONACEPT,0.6824025955409873,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,PDGFRB,RINUCUMAB,0.6608075766947535,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,CDP-860,0.6608075766947535,['inhibitor'],['ChEMBL']
+Mesenchymal,EDNRA,APROCITENTAN,0.5674325930313644,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,TELATINIB,0.472005411924824,['inhibitor'],"['TTD', 'MyCancerGenome', 'TdgClinicalTrial', 'TALC', 'ChEMBL']"
+Mesenchymal,PDE1A,DIPYRIDAMOLE,0.4661053442757637,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,X-82,0.3964845460168521,['inhibitor'],"['TTD', 'MyCancerGenome', 'ChEMBL']"
+Mesenchymal,MMP2,MARIMASTAT,0.3663424460272669,['inhibitor'],"['TEND', 'TTD', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,PDGFRB,TAK-593,0.2643230306779014,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,PDGFRB,MOTESANIB,0.2402936642526376,['inhibitor'],"['MyCancerGenome', 'TdgClinicalTrial', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,TOCERANIB PHOSPHATE,0.2202691922315845,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,JI-101,0.2202691922315845,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,XL-820,0.2202691922315845,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,MMP2,CTS-1027,0.1962548818003215,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,FAMITINIB,0.1888021647699296,['inhibitor'],"['TTD', 'ChEMBL']"
+Mesenchymal,PDGFRB,CM-082,0.1652018941736883,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,ORANTINIB,0.1524940561603277,['inhibitor'],"['MyCancerGenome', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,VATALANIB,0.1468461281543897,['inhibitor'],"['TdgClinicalTrial', 'DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,TANDUTINIB,0.1416016235774472,['inhibitor'],"['MyCancerGenome', 'DTC', 'ChEMBL']"
+Mesenchymal,PDGFRB,TIVOZANIB HYDROCHLORIDE,0.1321615153389507,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,CATEQUENTINIB,0.1321615153389507,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,NINTEDANIB ESYLATE,0.1321615153389507,['inhibitor'],"['ClearityFoundationClinicalTrial', 'TTD', 'MyCancerGenome', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,PDGFRB,SUNITINIB,0.1239014206302663,['inhibitor'],"['TEND', 'MyCancerGenome', 'CIViC', 'TdgClinicalTrial', 'PharmGKB', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,MASITINIB,0.1166131017696623,['inhibitor'],"['MyCancerGenomeClinicalTrial', 'TdgClinicalTrial', 'ChEMBL']"
+Mesenchymal,PDGFRB,SERALUTINIB,0.1101345961157922,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,SU-014813,0.0944010823849648,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,IMATINIB,0.0917788300964935,['inhibitor'],"['TEND', 'TTD', 'TdgClinicalTrial', 'PharmGKB', 'OncoKB', 'DTC', 'TALC', 'ChEMBL', 'FDA']"
+Mesenchymal,PDGFRB,REGORAFENIB,0.0800978880842125,['inhibitor'],"['MyCancerGenomeClinicalTrial', 'MyCancerGenome', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,PAZOPANIB,0.0695586922836582,['inhibitor'],"['ClearityFoundationClinicalTrial', 'MyCancerGenomeClinicalTrial', 'MyCancerGenome', 'DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,SORAFENIB,0.0632076812490634,['inhibitor'],"['ClearityFoundationClinicalTrial', 'TEND', 'TTD', 'MyCancerGenomeClinicalTrial', 'MyCancerGenome', 'TdgClinicalTrial', 'PharmGKB', 'DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,XL-999,0.0600734160631594,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,PUQUITINIB MESYLATE DIHYDRATE,0.0600734160631594,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,DASATINIB ANHYDROUS,0.0521690192127437,['inhibitor'],"['TEND', 'MyCancerGenomeClinicalTrial', 'TdgClinicalTrial', 'DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,CRENOLANIB,0.0440538384463169,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,TG100-801,0.041300473543422,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,LINIFANIB,0.041300473543422,['inhibitor'],"['MyCancerGenome', 'TdgClinicalTrial', 'DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,CEP-2563 DIHYDROCHLORIDE,0.0388710339232208,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,CEDIRANIB,0.0354004058943618,['inhibitor'],"['DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,ENMD-981693,0.0347793461418291,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,QUIZARTINIB,0.0347793461418291,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,FORETINIB,0.0347793461418291,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,DOVITINIB,0.0327132463710274,['inhibitor'],"['ClearityFoundationClinicalTrial', 'TdgClinicalTrial', 'DTC', 'TALC', 'ChEMBL']"
+Mesenchymal,PDGFRB,PD-0166285,0.0254156760267212,['inhibitor'],"['DTC', 'ChEMBL']"
+Mesenchymal,PDGFRB,MIDOSTAURIN,0.0188802164769929,['inhibitor'],['ChEMBL']
+Mesenchymal,PDGFRB,RG-1530,0.0140597356743564,['inhibitor'],"['DTC', 'ChEMBL']"
+Mesenchymal,PDGFRB,ILORASERTIB,0.011393234080944,['inhibitor'],"['DTC', 'ChEMBL']"
+Stem_like,IL20,FLETIKUMAB,52.20379855888553,['inhibitor'],['ChEMBL']
+Stem_like,EGLN3,ROXADUSTAT,3.480253237259035,['inhibitor'],"['TdgClinicalTrial', 'ChEMBL']"
+Stem_like,EGLN3,MOLIDUSTAT,2.088151942355421,['inhibitor'],['ChEMBL']
+Stem_like,EGLN3,DAPRODUSTAT,2.088151942355421,['inhibitor'],['ChEMBL']
+Stem_like,EGLN3,VADADUSTAT,2.088151942355421,['inhibitor'],['ChEMBL']
+Stem_like,MT-ND4L,NV-128,0.3480253237259035,['inhibitor'],['ChEMBL']
+Stem_like,MT-ND4L,ME-344,0.3412012977704936,['inhibitor'],['ChEMBL']
+Stem_like,MT-ND4L,METFORMIN HYDROCHLORIDE,0.3107368961838425,['inhibitor'],['ChEMBL']
